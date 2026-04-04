@@ -73,6 +73,19 @@ Fail (for marks < 40)
 
 ## 🧮 DSA Problems
 
+### 1. Sum of Array
+**File:** `Problem006-DSA-SumOfArray.js`
+
+**Concept:** Arrays, loops, iteration
+
+**Problem Statement:** Find the sum of all elements in an array.
+
+**Expected Output:**
+```
+Input: [1, 2, 3, 4, 5]
+Output: The sum of the array is: 15
+```
+
 ## 💡 Key Takeaways
 
 - Started the JavaScript learning journey
