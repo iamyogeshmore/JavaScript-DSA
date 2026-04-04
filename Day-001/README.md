@@ -86,6 +86,19 @@ Input: [1, 2, 3, 4, 5]
 Output: The sum of the array is: 15
 ```
 
+### 2. Max in Array
+**File:** `Problem007-DSA-MaxInArray.js`
+
+**Concept:** Arrays, loops, comparison logic
+
+**Problem Statement:** Find the largest element in an array.
+
+**Expected Output:**
+```
+Input: [10, 5, 20, 8, 15]
+Output: The largest element in the array is: 20
+```
+
 ## 💡 Key Takeaways
 
 - Started the JavaScript learning journey
