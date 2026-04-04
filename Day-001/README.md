@@ -58,6 +58,19 @@ Multiplication: 40
 Division: 10
 ```
 
+### 5. Pass Fail Checker
+**File:** `Problem005-PassFailChecker.js`
+
+**Concept:** Conditional statements, comparison operators
+
+**Problem Statement:** Determine if marks result in pass or fail (≥40 = pass).
+
+**Expected Output:**
+```
+Pass (for marks ≥ 40)
+Fail (for marks < 40)
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
