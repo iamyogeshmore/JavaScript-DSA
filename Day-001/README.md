@@ -43,6 +43,21 @@ Hello! My name is [name]. I am [age] years old and I live in [city].
 Both numbers are equal.
 ```
 
+### 4. Arithmetic Operations
+**File:** `Problem004-ArithmeticOperations.js`
+
+**Concept:** Arithmetic operators, variables, functions
+
+**Problem Statement:** Perform basic arithmetic operations (addition, subtraction, multiplication, division) on two numbers.
+
+**Expected Output:**
+```
+Addition: 22
+Subtraction: 18
+Multiplication: 40
+Division: 10
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
