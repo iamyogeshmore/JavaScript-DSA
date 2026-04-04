@@ -6,7 +6,7 @@ Getting started with JavaScript fundamentals and basic programming concepts.
 ## 📝 JavaScript Questions
 
 ### 1. Personal Introduction Formatter
-**File:** `PersonalIntroductionFormatter.js`
+**File:** `Problem001-PersonalIntroductionFormatter.js`
 
 **Concept:** String manipulation, template literals, functions
 
@@ -15,6 +15,19 @@ Getting started with JavaScript fundamentals and basic programming concepts.
 **Expected Output:**
 ```
 Hello! My name is [name]. I am [age] years old and I live in [city].
+```
+
+### 2. Even Odd Checker
+**File:** `Problem002-EvenOddChecker.js`
+
+**Concept:** Conditional statements, modulo operator, if-else
+
+**Problem Statement:** Check whether a given number is even or odd.
+
+**Expected Output:**
+```
+4 is an even number.
+3 is an odd number.
 ```
 
 ## 🧮 DSA Problems

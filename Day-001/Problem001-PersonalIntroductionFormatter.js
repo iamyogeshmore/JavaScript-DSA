@@ -1,4 +1,4 @@
-//Problem Statement: Store name, age, city in variables and print a formatted introduction.
+//Problem Statement 001: Store name, age, city in variables and print a formatted introduction.
 //Expected Output: My name is Yogesh, I am 28 years old, and I live in Mumbai.
 
 const userName = "Yogesh";
