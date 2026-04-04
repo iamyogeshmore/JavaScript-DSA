@@ -30,6 +30,19 @@ Hello! My name is [name]. I am [age] years old and I live in [city].
 3 is an odd number.
 ```
 
+### 3. Greatest Number
+**File:** `Problem003-GreatestNumber.js`
+
+**Concept:** Comparison operators, if-else-if statements
+
+**Problem Statement:** Find the greater number between two numbers.
+
+**Expected Output:**
+```
+10 is greater.
+Both numbers are equal.
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
