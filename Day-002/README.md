@@ -72,6 +72,19 @@ Output: Sum of numbers from 1 to 5 is: 15
 
 ## 🧮 DSA Problems
 
+### 1. Reverse Number
+**File:** `Problem013-DSA-ReverseNumber.js`
+
+**Concept:** String manipulation, mathematical operations, loops
+
+**Problem Statement:** Reverse a given number.
+
+**Expected Output:**
+```
+Input: 1234
+Output: The reverse of 1234 is: 4321
+```
+
 ## 💡 Key Takeaways
 
 - Building on Day 001 concepts
