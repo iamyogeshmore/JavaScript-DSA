@@ -85,6 +85,19 @@ Input: 1234
 Output: The reverse of 1234 is: 4321
 ```
 
+### 2. Count Digits
+**File:** `Problem014-CountDigits.js`
+
+**Concept:** String methods, mathematical operations, loops
+
+**Problem Statement:** Count total digits in a number.
+
+**Expected Output:**
+```
+Input: 12345
+Output: The total digits in 12345 is: 5
+```
+
 ## 💡 Key Takeaways
 
 - Building on Day 001 concepts
