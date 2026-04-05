@@ -18,6 +18,19 @@ Input: a = 5, b = 10
 Output: After swapping: a = 10, b = 5
 ```
 
+### 2. Number Check
+**File:** `Problem009-NumberCheck.js`
+
+**Concept:** Conditional statements, ternary operator
+
+**Problem Statement:** Check whether a number is positive, negative, or zero.
+
+**Expected Output:**
+```
+Input: -5
+Output: -5 is a Negative number.
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
