@@ -57,6 +57,19 @@ Input: N = 5
 Output: 1 2 3 4 5
 ```
 
+### 5. Sum 1 to N
+**File:** `Problem012-Sum1ToN.js`
+
+**Concept:** Loops, accumulation, arithmetic
+
+**Problem Statement:** Find sum of numbers from 1 to N.
+
+**Expected Output:**
+```
+Input: N = 5
+Output: Sum of numbers from 1 to 5 is: 15
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
