@@ -31,6 +31,19 @@ Input: -5
 Output: -5 is a Negative number.
 ```
 
+### 3. Largest of Three
+**File:** `Problem010-LargestOfThree.js`
+
+**Concept:** Conditional statements, logical operators, ternary operator
+
+**Problem Statement:** Find the largest among three numbers.
+
+**Expected Output:**
+```
+Input: 10, 25, 15
+Output: 25 is Largest.
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
