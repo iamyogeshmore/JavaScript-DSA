@@ -44,6 +44,19 @@ Input: 10, 25, 15
 Output: 25 is Largest.
 ```
 
+### 4. Print 1 to N
+**File:** `Problem011-Print1ToN.js`
+
+**Concept:** Loops (for, while), iteration
+
+**Problem Statement:** Print numbers from 1 to N.
+
+**Expected Output:**
+```
+Input: N = 5
+Output: 1 2 3 4 5
+```
+
 ## 🧮 DSA Problems
 
 ## 💡 Key Takeaways
