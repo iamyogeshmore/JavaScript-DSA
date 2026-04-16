@@ -19,6 +19,19 @@ Input: 5
 Output: 120
 ```
 
+### 2. Reverse a Number
+**File:** `Problem016-ReverseNumber.js`
+
+**Concept:** Loops, mathematical operations, number manipulation
+
+**Problem Statement:** Reverse a given number.
+
+**Expected Output:**
+```
+Input: 1234
+Output: 4321
+```
+
 ## 🧮 DSA Problems
 
 
